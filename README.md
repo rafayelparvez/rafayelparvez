@@ -1,138 +1,97 @@
-\<!-- BANNER -->
+<!-- BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=Parvez%20Mosharaf&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20WordPress%20Expert&descAlignY=55&descSize=16" width="100%" alt="Parvez Mosharaf banner" />
+</div>
 
-\<div align="center">
-&#x20; \<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=Parvez%20Mosharaf&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20WordPress%20Expert&descAlignY=55&descSize=16](https://capsule-render.vercel.app/api?type=waving\&color=0:0F172A,100:2563EB\&height=200\&section=header\&text=Parvez%20Mosharaf\&fontSize=40\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=35\&desc=Frontend%20Developer%20%7C%20WordPress%20Expert\&descAlignY=55\&descSize=16)" width="100%" />
-\</div>
+<!-- INTRO -->
+<h1 align="center">Hi 👋, I'm Parvez Mosharaf</h1>
 
-\<!-- INTRODUCTION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+%26+Next.js+Enthusiast;WordPress+Developer;Aspiring+Full-Stack+Developer" alt="Typing animation" />
+</p>
 
-\<h1 align="center">Hi 👋, I'm Parvez Mosharaf\</h1>
-\<h3 align="center">Frontend Developer | React.js & Next.js | WordPress Developer\</h3>
-
-\<p align="center">
-&#x20; \<a href="[https://github.com/rafayelparvez](https://github.com/rafayelparvez)">
-&#x20;   \<img src="[https://komarev.com/ghpvc/?username=rafayelparvez&label=Profile%20Views&color=2563eb&style=flat](https://komarev.com/ghpvc/?username=rafayelparvez\&label=Profile%20Views\&color=2563eb\&style=flat)" alt="Profile Views" />
-&#x20; \</a>
-\</p>
-
----
-
-### 👨‍💻 About Me
-
-I'm a web developer passionate about building modern, responsive, and user-friendly websites and web applications.
-
-My journey started with WordPress development, and I've been expanding my skills into modern frontend technologies like React, Next.js, and TypeScript.
-
-I enjoy learning new technologies, solving problems, and turning ideas into functional digital experiences.
-
-- 🌱 I'm exploring modern web development with React and Next.js.
-- 💻 I'm building projects to improve my frontend development skills.
-- 🔐 I'm learning authentication and database integration with Better Auth and MongoDB.
-- 🚀 My goal is to become a Full-Stack Developer.
-- 🤝 I'm open to collaboration, freelance projects, and learning opportunities.
+<p align="center">
+  <a href="https://github.com/rafayelparvez">
+    <img src="https://komarev.com/ghpvc/?username=rafayelparvez&label=Profile%20Views&color=2563eb&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/rafayelparvez?tab=followers">
+    <img src="https://img.shields.io/github/followers/rafayelparvez?style=flat&logo=github&color=2563eb" alt="Followers" />
+  </a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Skills
+## 👨‍💻 About Me
 
-**Frontend Development**
+I'm a web developer passionate about building **modern, responsive, and user-friendly** websites and web applications.
 
-\<p align="left">
-&#x20; \<a href="[https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)">
-&#x20;   \<img src="[https://skillicons.dev/icons?i=html](https://skillicons.dev/icons?i=html)" alt="HTML5" width="45" height="45"/>
-&#x20; \</a>
-&#x20; \<a href="[https://developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)">
-&#x20;   \<img src="[https://skillicons.dev/icons?i=css](https://skillicons.dev/icons?i=css)" alt="CSS3" width="45" height="45"/>
-&#x20; \</a>
-&#x20; \<a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)">
-&#x20;   \<img src="[https://skillicons.dev/icons?i=js](https://skillicons.dev/icons?i=js)" alt="JavaScript" width="45" height="45"/>
-&#x20; \</a>
-&#x20; \<a href="[https://www.typescriptlang.org/](https://www.typescriptlang.org/)">
-&#x20;   \<img src="[https://skillicons.dev/icons?i=ts](https://skillicons.dev/icons?i=ts)" alt="TypeScript" width="45" height="45"/>
-&#x20; \</a>
-&#x20; \<a href="[https://react.dev/](https://react.dev/)">
-&#x20;   \<img src="[https://skillicons.dev/icons?i=react](https://skillicons.dev/icons?i=react)" alt="React" width="45" height="45"/>
-&#x20; \</a>
-&#x20; \<a href="[https://nextjs.org/](https://nextjs.org/)">
-&#x20;   \<img src="[https://skillicons.dev/icons?i=nextjs](https://skillicons.dev/icons?i=nextjs)" alt="Next.js" width="45" height="45"/>
-&#x20; \</a>
-&#x20; \<a href="[https://tailwindcss.com/](https://tailwindcss.com/)">
-&#x20;   \<img src="[https://skillicons.dev/icons?i=tailwind](https://skillicons.dev/icons?i=tailwind)" alt="Tailwind CSS" width="45" height="45"/>
-&#x20; \</a>
-&#x20; \<a href="[https://getbootstrap.com/](https://getbootstrap.com/)">
-&#x20;   \<img src="[https://skillicons.dev/icons?i=bootstrap](https://skillicons.dev/icons?i=bootstrap)" alt="Bootstrap" width="45" height="45"/>
-&#x20; \</a>
-\</p>
+My journey started with **WordPress**, and I've since been growing into modern frontend technologies like **React**, **Next.js**, and **TypeScript**. I enjoy learning new tools, solving problems, and turning ideas into functional digital experiences.
 
-**Database, Authentication & Tools**
+| | |
+|---|---|
+| 🌱 **Exploring** | Modern web development with React and Next.js |
+| 💻 **Building** | Projects to sharpen my frontend skills |
+| 🔐 **Learning** | Authentication and database integration with Better Auth and MongoDB |
+| 🚀 **Goal** | Becoming a Full-Stack Developer |
+| 🤝 **Open to** | Collaboration, freelance projects, and learning opportunities |
 
-\<p align="left">
-&#x20; \<a href="[https://www.mongodb.com/](https://www.mongodb.com/)">
-&#x20;   \<img src="[https://skillicons.dev/icons?i=mongodb](https://skillicons.dev/icons?i=mongodb)" alt="MongoDB" width="45" height="45"/>
-&#x20; \</a>
-&#x20; \<a href="[https://git-scm.com/](https://git-scm.com/)">
-&#x20;   \<img src="[https://skillicons.dev/icons?i=git](https://skillicons.dev/icons?i=git)" alt="Git" width="45" height="45"/>
-&#x20; \</a>
-&#x20; \<a href="[https://github.com/](https://github.com/)">
-&#x20;   \<img src="[https://skillicons.dev/icons?i=github](https://skillicons.dev/icons?i=github)" alt="GitHub" width="45" height="45"/>
-&#x20; \</a>
-&#x20; \<a href="[https://www.php.net/](https://www.php.net/)">
-&#x20;   \<img src="[https://skillicons.dev/icons?i=php](https://skillicons.dev/icons?i=php)" alt="PHP" width="45" height="45"/>
-&#x20; \</a>
-\</p>
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" alt="Frontend skills" />
+</p>
+
+**Backend, Database & Tools**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,php,git,github&theme=dark" alt="Backend and tools" />
+</p>
 
 **WordPress & UI Libraries**
 
-\<p align="left">
-&#x20; \<a href="[https://wordpress.org/](https://wordpress.org/)">
-&#x20;   \<img src="[https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)" alt="WordPress"/>
-&#x20; \</a>
-&#x20; \<a href="[https://elementor.com/](https://elementor.com/)">
-&#x20;   \<img src="[https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge\&logo=elementor\&logoColor=white)" alt="Elementor"/>
-&#x20; \</a>
-&#x20; \<a href="[https://daisyui.com/](https://daisyui.com/)">
-&#x20;   \<img src="[https://img.shields.io/badge/DaisyUI-1AD1A5?style=for-the-badge&logo=daisyui&logoColor=white](https://img.shields.io/badge/DaisyUI-1AD1A5?style=for-the-badge\&logo=daisyui\&logoColor=white)" alt="DaisyUI"/>
-&#x20; \</a>
-&#x20; \<a href="[https://www.heroui.com/](https://www.heroui.com/)">
-&#x20;   \<img src="[https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=heroui&logoColor=white](https://img.shields.io/badge/HeroUI-000000?style=for-the-badge\&logo=heroui\&logoColor=white)" alt="HeroUI"/>
-&#x20; \</a>
-&#x20; \<a href="[https://www.better-auth.com/](https://www.better-auth.com/)">
-&#x20;   \<img src="[https://img.shields.io/badge/Better_Auth-333333?style=for-the-badge](https://img.shields.io/badge/Better_Auth-333333?style=for-the-badge)" alt="Better Auth"/>
-&#x20; \</a>
-\</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
+  <img src="https://img.shields.io/badge/DaisyUI-1AD1A5?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI" />
+  <img src="https://img.shields.io/badge/HeroUI-000000?style=for-the-badge" alt="HeroUI" />
+  <img src="https://img.shields.io/badge/Better_Auth-333333?style=for-the-badge" alt="Better Auth" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-\<p align="center">
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=rafayelparvez&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=rafayelparvez\&show_icons=true\&theme=tokyonight\&hide_border=true)" height="165" alt="GitHub Stats"/>
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=rafayelparvez&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=rafayelparvez\&layout=compact\&theme=tokyonight\&hide_border=true)" height="165" alt="Top Languages"/>
-\</p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rafayelparvez&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafayelparvez&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-\<p align="center">
-&#x20; \<img src="[https://streak-stats.demolab.com?user=rafayelparvez&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=rafayelparvez\&theme=tokyonight\&hide_border=true)" alt="GitHub Streak"/>
-\</p>
-
----
-
-### 🌐 Connect With Me
-
-\<p align="left">
-&#x20; \<a href="[https://www.linkedin.com/in/rafayelparvez/](https://www.linkedin.com/in/rafayelparvez/)" target="\_blank">
-&#x20;   \<img src="[https://skillicons.dev/icons?i=linkedin](https://skillicons.dev/icons?i=linkedin)" alt="LinkedIn" height="40" width="40"/>
-&#x20; \</a>
-&#x20; \<a href="[https://github.com/rafayelparvez](https://github.com/rafayelparvez)" target="\_blank">
-&#x20;   \<img src="[https://skillicons.dev/icons?i=github](https://skillicons.dev/icons?i=github)" alt="GitHub" height="40" width="40"/>   \</a>
-
-\</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rafayelparvez&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-\<p align="center">
-&#x20; 💙 Thanks for visiting my profile! Let's learn, build, and grow together.
-\</p>
+## 🌐 Connect With Me
 
-\<div align="center">
-&#x20; \<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:0F172A,100:2563EB\&height=100\&section=footer)" width="100%" />
-\</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rafayelparvez/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/rafayelparvez" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  💙 Thanks for visiting my profile! Let's learn, build, and grow together.
+</p>
+
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=100&section=footer" width="100%" alt="footer" />
+</div>
